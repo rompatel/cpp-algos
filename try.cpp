@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-	cout<<"Working";
+	cout<<"Code is Working";
 	return 0;
 }
